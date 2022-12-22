@@ -20,5 +20,5 @@ public:
 ```
 
 
-### Current GitHub Stats
+### Current GitHub Stats <img src="https://media.giphy.com/media/78olYNYZTlDNDgzzwS/giphy.gif" width="50"> 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marymac444)](https://github.com/anuraghazra/github-readme-stats)
