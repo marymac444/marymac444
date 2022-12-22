@@ -1,4 +1,4 @@
-class Person{
+class Person{'\n'
 public:
   def Mary_MacLachlan{
     int age = 23;
