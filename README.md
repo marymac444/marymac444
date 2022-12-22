@@ -1,16 +1,20 @@
-class Person{'\n'
+```C++
+class Person{
 public:
   def Mary_MacLachlan{
-    int age = 23;
-    int height = 5.6;
+    string pronouns = "She/Her";
     string University = "Michigan State University";
     string Major = "Computer Science";
     string Minor = "Japanese";
     string email = "mary14mac@gmail.com";
-    list languages = ["Python", "SwiftUI", "SQLite", "C++", "C", "C#", "ARM"];
+    list languages = ["Python", "SwiftUI", "SQLite", "C++", "C", "C#", "ARM", "JavaScript"];
     bool college_grad = True;
+    string challenge = "Completing the first algorithms course in neet code!"
   }
 }
+```
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marymac444)](https://github.com/anuraghazra/github-readme-stats)
 <!--
