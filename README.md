@@ -12,7 +12,7 @@ public:
     string Major = "Computer Science";
     string Minor = "Japanese";
     string email = "mary14mac@gmail.com";
-    list languages = ["Python", "SwiftUI", "SQLite", "C++", "C", "C#", "ARM", "JavaScript"];
+    list languages = ["Python", "SwiftUI", "SQLite", "C++", "C", "C#", "ARM", "JavaScript", "MatLab"];
     bool college_grad = True;
     string challenge = "Completing the first algorithms course in neet code!"
   }
